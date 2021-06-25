@@ -1,0 +1,84 @@
+
+
+/** HEADER **/
+#header-nav{
+  background-color: #8e8e8e;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 { /* company name */
+  font-family: 'Lora', serif;
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+ section{
+    background-color: #8e8e8e;
+    margin:10px;
+
+    
+   }
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+
+}
+
+#nav-list {
+  margin-top: 10px;
+
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+  font-size: 1.5em;
+  
+
+}
+#nav-list a:hover {
+  background: #8e8e7e;
+  height: 80px;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+
+ p{
+    margin:10px;
+    margin-top:40px;
+    clear:both;
+
+    padding: 5px 5px 5px 5px;
+
+    font-size: 1.2em;
+   }
+
+   .row {
+    width: 90%;
+    border: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    padding:5px;
+   }
+  
+   
+   #suchi, #beef, #chicken{
+    
+    width:100%;
+    text-align: center;
+    font-size: 125%;
+
+   }
+
